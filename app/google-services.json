@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419811110572",
+    "firebase_url": "https://mi-boton-de-panico.firebaseio.com",
+    "project_id": "mi-boton-de-panico",
+    "storage_bucket": "mi-boton-de-panico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419811110572:android:2a12d29b7e6923cd157909",
+        "android_client_info": {
+          "package_name": "com.example.mibotondepanico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419811110572-juh66dqkvnnlern6gjkm0cv81634sff1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mibotondepanico",
+            "certificate_hash": "74ae473912f0b0e6cb835afe30a17e3af06a06b8"
+          }
+        },
+        {
+          "client_id": "419811110572-lfkmqlfadegpt6m41vd131tuoo1b7lv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB17CeYBowMYMEVh3rVttcHR2pG3npHRfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419811110572-lfkmqlfadegpt6m41vd131tuoo1b7lv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
