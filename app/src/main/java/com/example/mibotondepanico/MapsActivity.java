@@ -13,6 +13,7 @@ import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.location.LocationProvider;
+import android.os.CountDownTimer;
 import android.provider.Settings;
 import androidx.core.app.ActivityCompat;
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,6 +22,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -74,6 +77,7 @@ private ArrayList<Marker> realTimeMarkers = new ArrayList<>();
                 datos.put("latitud",latitud);
                 datos.put("longitud",longitud);
                 mRootReference.child("Ubicacion").push().setValue(datos);
+                contadorDeTiempo();
             }
         });
     }
@@ -166,6 +170,17 @@ private ArrayList<Marker> realTimeMarkers = new ArrayList<>();
                 e.printStackTrace();
             }
         }
+    }
+    private void contadorDeTiempo(){
+        new CountDownTimer(600000,1000){
+            public void onTick(long millisUntilFinished){
+
+            }
+            public void onFinish(){
+                mRootReference.child("Ubicacion").removeValue();
+                Toast.makeText(MapsActivity.this, "Ubicacion eliminada",Toast.LENGTH_SHORT).show();
+            }
+        }.start();
     }
     /* Aqui empieza la Clase Localizacion */
     public class Localizacion implements LocationListener {

@@ -9,13 +9,18 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2920609f-a6a1-4973-b1a4-fde625806cc1" name="Default Changelist" comment="" />
+    <list default="true" id="2920609f-a6a1-4973-b1a4-fde625806cc1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mibotondepanico/MapsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mibotondepanico/MapsActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="ASJNW19322001575" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -134,21 +139,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605811571125" />
-    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1605809752737">
+    <state width="1286" height="133" key="GridCell.Tab.0.bottom" timestamp="1605895543897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605809752737" />
-    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1605809752736">
+    <state width="1286" height="133" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605895543897" />
+    <state width="1286" height="133" key="GridCell.Tab.0.center" timestamp="1605895543896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605809752736" />
-    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1605809752736">
+    <state width="1286" height="133" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605895543896" />
+    <state width="1286" height="133" key="GridCell.Tab.0.left" timestamp="1605895543895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605809752736" />
-    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1605809752737">
+    <state width="1286" height="133" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605895543895" />
+    <state width="1286" height="133" key="GridCell.Tab.0.right" timestamp="1605895543897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605809752737" />
+    <state width="1286" height="133" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605895543897" />
+    <state x="369" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1605894257979">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="369" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605894257979" />
   </component>
 </project>
